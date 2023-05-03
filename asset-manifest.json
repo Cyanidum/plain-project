@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/plain-project/static/css/main.d085f3de.css",
+    "main.js": "/plain-project/static/js/main.95348267.js",
+    "static/js/787.e17fefa6.chunk.js": "/plain-project/static/js/787.e17fefa6.chunk.js",
+    "static/media/journal-preview-4.jpeg": "/plain-project/static/media/journal-preview-4.3771025be4a095d07558.jpeg",
+    "static/media/journal-preview-2.jpeg": "/plain-project/static/media/journal-preview-2.ef24fdcddd84303a4548.jpeg",
+    "static/media/journal-preview-1.jpeg": "/plain-project/static/media/journal-preview-1.334e559a6143a0de59b8.jpeg",
+    "static/media/journal-preview-6.jpeg": "/plain-project/static/media/journal-preview-6.6021c86aaf2f7baead09.jpeg",
+    "static/media/journal-preview-5.jpeg": "/plain-project/static/media/journal-preview-5.2ebd389129dc679d451f.jpeg",
+    "static/media/journal-preview-3.jpeg": "/plain-project/static/media/journal-preview-3.34b7061ed1b95e697d36.jpeg",
+    "static/media/main-banner.png": "/plain-project/static/media/main-banner.51bd0edb68ef4c7af2f3.png",
+    "static/media/Inter-Regular.woff": "/plain-project/static/media/Inter-Regular.f3ce705f806c10eb6e2d.woff",
+    "static/media/docs-bg.jpg": "/plain-project/static/media/docs-bg.056c0995d6f300b853c0.jpg",
+    "static/media/Inter-Regular.woff2": "/plain-project/static/media/Inter-Regular.ac03a6de9ea313009257.woff2",
+    "static/media/Roboto-Regular.woff": "/plain-project/static/media/Roboto-Regular.0944be1093c62cedb919.woff",
+    "static/media/Roboto-Regular.woff2": "/plain-project/static/media/Roboto-Regular.9d43b86421e004e704b9.woff2",
+    "static/media/back-2.png": "/plain-project/static/media/back-2.db6c6e87b546e1352ba3.png",
+    "static/media/background.png": "/plain-project/static/media/background.0eff47891c544c33c990.png",
+    "static/media/support-app.png": "/plain-project/static/media/support-app.36e565ae176d975ce7d2.png",
+    "static/media/timeline.png": "/plain-project/static/media/timeline.b9d9cc149530424225ef.png",
+    "static/media/alex.png": "/plain-project/static/media/alex.3513fe51ab48d2fcba38.png",
+    "static/media/report.png": "/plain-project/static/media/report.b537bc5d6b4a4c3766b7.png",
+    "static/media/bug.png": "/plain-project/static/media/bug.6573f38e535ed3f5a90c.png",
+    "static/media/small.png": "/plain-project/static/media/small.2ef8308bbac30842a7f1.png",
+    "static/media/email.png": "/plain-project/static/media/email.a0e0a8034e561e683743.png",
+    "static/media/chat.png": "/plain-project/static/media/chat.c5acda8315f5d263f66c.png",
+    "static/media/early-access.png": "/plain-project/static/media/early-access.76194a60cf87d4589dc8.png",
+    "static/media/feedback.png": "/plain-project/static/media/feedback.7d0f0246acb5dfc1c8a4.png",
+    "static/media/demo.png": "/plain-project/static/media/demo.fcfc6ef62556cac76d0f.png",
+    "static/media/medium.png": "/plain-project/static/media/medium.c7bbdf275f6a84bcd653.png",
+    "static/media/documentation.png": "/plain-project/static/media/documentation.3239f0d36a006b20ba11.png",
+    "static/media/contact.png": "/plain-project/static/media/contact.ac6e7dc89cd64d22e146.png",
+    "index.html": "/plain-project/index.html",
+    "main.d085f3de.css.map": "/plain-project/static/css/main.d085f3de.css.map",
+    "main.95348267.js.map": "/plain-project/static/js/main.95348267.js.map",
+    "787.e17fefa6.chunk.js.map": "/plain-project/static/js/787.e17fefa6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d085f3de.css",
+    "static/js/main.95348267.js"
+  ]
+}
