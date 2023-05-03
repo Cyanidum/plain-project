@@ -25,7 +25,7 @@ function App() {
         <Header />
       </div>
       <Switch>
-        <Route exact path='/'>
+        <Route exact path='/plain'>
           <div className="main-bg">
             <Main />
           </div>

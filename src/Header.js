@@ -28,7 +28,7 @@ const Header = () => {
 		<section className="header">
 			<div ref={ component } className={cx("header__main","border-container")}>
 				<div className={cx("header__logo", "one")}>
-					<Link to='/'>
+					<Link to='/plain'>
 						<img src={ logo } alt="" />
 					</Link>
 				</div>
